@@ -1,6 +1,6 @@
 # Election Analysis
 ## Project Overview
-Hired on to assist the Colorado Board of Directors in the auditing process of the tabulated votes in a Congressional precinct election. The vital data to obtain:
+Independently hired to assist the Colorado Board of Directors in the auditing process of the tabulated votes in a Congressional precinct election. The vital data to obtain:
 1.	Total number of votes cast
 2.	Complete list of candidates who received votes
 3.	Total number of votes each candidate received 
@@ -11,17 +11,17 @@ Hired on to assist the Colorado Board of Directors in the auditing process of th
 * Software: Python 3.7.6, VS Code 1.49.3
  ## Analysis - Election Results
 After careful analysis, it can be concluded:
-1.	There were 369,711 Total Votes
-2.	The candidates were:
-  * Charles Casper Stockham 
-  * Diane Degette
-  * Raymon Anthony Doane
-3.	In total each individual candidate received:
-  * Charles: 85,213
-  * Diana: 272,892
-  * Raymon: 11,606
-4.	Individually pulling 
-  * Charles: 23.0%
-  * Diana: 73.8%
-  * Raymon: 3.1%
-5.	Last but not least the winner was Diana Degette! 
+1.	There were 369,711 total votes.
+2. The county vote breakdown is as follows:
+  * Jefferson: 10.5% (38,855)
+  * Denver: 82.8% (306,055)
+  * Arapahoe: 6.7% (24,801)
+3. The largest county was turnout was in Denver!
+2.	The candidates vote breakdown:
+  * Charles Casper Stockham: 23.0% (85,213)
+  * Diana DeGette: 73.8% (272,892)
+  * Raymon Anthony Doane: 3.1% (11,606)
+5.	Making the winner Diana Degette! 
+## Summary and looking to the future
+Overall I've enjoyed my time working on this project for the Colorado Board of Directors and working with Tom directly. I would love to look into implementing this program for all elections across Colorado. Using automation to save tax dollars, Coloradan's time and cut down on human errors while counting. 
+Moving foward we could add more visually appealing graphics to publish 
