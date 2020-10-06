@@ -23,5 +23,4 @@ After careful analysis, it can be concluded:
   * Raymon Anthony Doane: 3.1% (11,606)
 5.	Making the winner Diana Degette! 
 ## Summary and looking to the future
-Overall I've enjoyed my time working on this project for the Colorado Board of Directors and working with Tom directly. I would love to look into implementing this program for all elections across Colorado. Using automation to save tax dollars, Coloradan's time and cut down on human errors while counting. 
-Moving foward we could add more visually appealing graphics to publish 
+Overall, I have enjoyed my time working on this project for the Colorado Board of Directors and working with Tom directly. I would love to investigate implementing this program for all elections across Colorado. Let us continue to push for a better future through automation. Moving forward we could add more visually appealing graphics to publish for the public's interest, give live updates of the polls, provide statistics relative to party affiliation, economic class, neighborhood, etc. The only limit here is the data we have.
