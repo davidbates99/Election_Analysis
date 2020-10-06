@@ -6,10 +6,10 @@ Hired on to assist the Colorado Board of Directors in the auditing process of th
 3.	Total number of votes each candidate received 
 4.	Percentage of votes each candidate won
 5.	Winner of the election based on popular vote
-## Resources
+ ## Resources
 * elections_results.csv
 * Software: Python 3.7.6, VS Code 1.49.3
-##Analysis - Election Results
+ ## Analysis - Election Results
 After careful analysis, it can be concluded:
 1.	There were 369,711 Total Votes
 2.	The candidates were:
